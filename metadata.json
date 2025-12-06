@@ -1,0 +1,5 @@
+{
+  "name": "SmartCompress",
+  "description": "An intelligent image compression tool powered by Gemini. Upload images to receive AI-driven compression recommendations, preview quality changes in real-time, and optimize file size without losing essential details.",
+  "requestFramePermissions": []
+}
